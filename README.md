@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Furkan Kozmaç.
+- 👋 Hi, I’m Furkan.
 - 👀 I’m interested in Web Development and Data Science.
 - 🌱 I’m currently learning Java, JavaScript and Python.
 - 💞️ I’m looking to collaborate on developing web applications.
