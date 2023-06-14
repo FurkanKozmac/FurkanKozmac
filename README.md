@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Furkan.
-- 👀 I’m interested in Web Development and Mobile Development.
-- 🌱 I’m currently learning Java, JavaScript and Swift.
+- 👀 I’m interested in Web and Mobile Development.
+- 🌱 I’m currently learning Java, JavaScript and TypeScript.
 - 💞️ I’m looking to collaborate on developing web and mobile applications.
 - 📫 How to reach me : E-mail: fkozmac@gmail.com
 <!---
