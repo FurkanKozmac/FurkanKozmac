@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Furkan.
-- 👀 I’m interested Mobile Development.
+- 👀 I’m interested in Mobile Development.
 - 🌱 I’m currently learning Java and Swift.
 - 💞️ I’m looking to collaborate on developing web and mobile applications.
 - 📫 How to reach me : E-mail: fkozmac@gmail.com
