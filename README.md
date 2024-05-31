@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Furkan.
 - 👀 I’m interested in Web and Mobile Development.
-- 🌱 I’m learning Java Spring framework, React PostgreSQL, MongoDB.
+- 🌱 I’m learning Java, React Native, Go programming languages.
 - 💞️ I’m looking to collaborate on developing web applications.
 - 📫 How to reach me : E-mail: fkozmac@gmail.com
 <!---
